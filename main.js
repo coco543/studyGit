@@ -6,4 +6,6 @@
 	console.log('Stop up !');
 
 	//呵呵
+
+	//fix a bug
 })();
